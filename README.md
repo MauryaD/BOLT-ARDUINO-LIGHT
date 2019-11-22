@@ -7,4 +7,4 @@ I've interfaced the Bolt IoT WiFi module and Arduino UNO for the setup and used 
 
 Using google assistant your lights can be controlled, you just have say some simple phrases, like, 'Turn the lights ON'.
 
-![alt text](https://github.com/MauryaD/BOLT-ARDUINO-LIGHT/blob/master/pic.png)
+  <img src="https://github.com/MauryaD/BOLT-ARDUINO-LIGHT/blob/master/pic.png" width="500" height="600">
